@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jahnvi Srivastava</h1>
 <h3 align="center">I'm a student ,self-taught programmer, and tech enthusiast!</h3>
+<img align="center" src="1.gif" width="100" height="100" />
+
+
+
+
 
 - 🥅 2021 Goals **Learn new skills.**
 
