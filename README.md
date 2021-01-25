@@ -27,7 +27,4 @@
 <a href="https://stackoverflow.com/users/12949186/jahnvi-srivastava?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jahnvi srivastava" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/srivastavajahnv1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="srivastavajahnvi1" height="30" width="40" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisrivastava100&" alt="jahnvisrivastava100" /></p>
-
-
 
