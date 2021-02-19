@@ -8,7 +8,7 @@
 
 - 🥅 2021 Goals **Learn new skills.**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Everything**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
