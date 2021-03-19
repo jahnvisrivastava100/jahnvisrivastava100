@@ -10,10 +10,6 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on **Web development projects**
-
-- 📝 I regularly write articles on [https://codeplay6.blogspot.com/?m=1](https://codeplay6.blogspot.com/?m=1)
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **srivastavajahnvi6@gmail.com**
