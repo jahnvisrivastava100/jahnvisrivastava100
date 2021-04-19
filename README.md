@@ -8,7 +8,7 @@
 
 - 🥅 2021 Goals **Learn new skills.**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 💬 Ask me about **anything**
 
@@ -19,6 +19,13 @@
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jahnvisrivastava100&count_private=true&theme=tokyonight&showicons=true)]()
+
+
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisrivastava100" /> 
+
 
 
 <h3 align="left">Connect with me:</h3>
