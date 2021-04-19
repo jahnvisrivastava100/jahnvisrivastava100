@@ -16,6 +16,11 @@
 
 - ⚡ Fun fact **I love editing pictures📷!!**
 
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jahnvisrivastava100&count_private=true&theme=tokyonight&showicons=true)]()
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jahnvisrivastava100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@jahnvisrivastava100" height="30" width="40" /></a>
