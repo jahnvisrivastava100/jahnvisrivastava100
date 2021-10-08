@@ -30,7 +30,7 @@
 </h2>
    
   
-  ![](https://activity-graph.herokuapp.com/graph?username=jahnvisrivastava100&theme=github)
+<!--   ![](https://activity-graph.herokuapp.com/graph?username=jahnvisrivastava100&theme=github) -->
   <h1 align="center">
  Connect with me:
 
